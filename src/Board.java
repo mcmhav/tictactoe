@@ -112,7 +112,8 @@ public class Board {
 
         Players ps = new Players(p1, p2);
 
-        int c = 0;
+        
+		int c = 0;
         boolean turn = false;
 
         while (!b.checkWin() && c < 9){
