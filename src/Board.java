@@ -1,6 +1,7 @@
 public class Board {
 
-    private Boolean board[][] = new Boolean[3][3];
+    
+	private Boolean board[][] = new Boolean[3][3];
 
     public Board(){
 
